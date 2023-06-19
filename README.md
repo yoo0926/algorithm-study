@@ -1,2 +1,4 @@
-# algorithm_study
-algorithm_study
+## 알고리즘 문제풀이 저장소
+
+- 프로그래머스
+- 백준
