@@ -10,7 +10,7 @@ import java.io.IOException;
  * 실버2
  */
 
-class Main {
+class BJ_1874 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
